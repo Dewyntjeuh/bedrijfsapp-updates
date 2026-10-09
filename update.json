@@ -1,7 +1,7 @@
 {
-  "version": "1.2.8-beta",
+  "version": "1.2.10-beta",
   "channel": "beta",
-  "installer_url": "https://github.com/Dewyntjeuh/bedrijfsapp-updates/releases/download/v1.2.8-beta/Bedrijfsapp-Setup-1.2.8-beta.exe",
-  "sha256": "2fb643f91fe3e96824381b1b00c7df75d4b3f5f61515b733957aad83c6f2c3e8",
-  "release_notes": "Testrelease 1.2.8-beta.\n\nWijzigingen:\n- Centrale versie-instelling via app_version.py.\n- Installernaam wordt automatisch opgebouwd uit het versienummer.\n- SHA-256 wordt automatisch gegenereerd.\n- update.json wordt automatisch aangemaakt.\n- Release notes worden automatisch meegenomen in de update-informatie."
+  "installer_url": "https://github.com/Dewyntjeuh/bedrijfsapp-updates/releases/download/v1.2.10-beta/Bedrijfsapp-Setup-1.2.10-beta.exe",
+  "sha256": "f2b113121c7e816e40c28c3398af107dd8f3e67977a60d0187bfe5d233c5e385",
+  "release_notes": "Bedrijfsapp 1.2.10-beta.\r\n\r\nWijzigingen:\r\n- Eerste volledige test van automatische updates via internet.\r\n- Updatecontrole gebruikt de publieke Bedrijfsapp-updatebron.\r\n- Installer wordt gecontroleerd met SHA-256 vóór installatie.\r\n- Release-informatie wordt automatisch weergegeven in Bedrijfsapp."
 }
